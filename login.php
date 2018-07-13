@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 $conf=array(
-            'me' => 'Get Cookie Instagram | http://www.indotagram.com',
+            'me' => 'Get Cookie Instagram | http://www.new1.raypedia.xyz',
             'url' =>'http://www.indotagram.com/live',
             'urlsubmit' => 'http://url'
             );
